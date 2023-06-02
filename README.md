@@ -44,4 +44,6 @@ I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamxamehboob&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=000000)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamxamehboob&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamxamehboob&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
