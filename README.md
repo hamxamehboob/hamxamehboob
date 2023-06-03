@@ -1,5 +1,5 @@
 <h1 align = "center">
- Hi there 👋 I'm Hamxa Mehboob
+ Hi there 👋 I'm Hamxa Mehboo
 </h1>
 <h1 align = "center">
  A Computer Scientist & Mobile App developer.
