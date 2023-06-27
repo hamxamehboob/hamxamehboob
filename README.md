@@ -1,4 +1,4 @@
-<h1 align = "center">
+ <h1 align = "center">
  Hi there 👋 I'm Hamxa Mehboob
 </h1>
 <h1 align = "center">
@@ -26,7 +26,7 @@
 ---
 ### :woman_technologist: About Me :
 I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-mehboob-843815233/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-mehboob-843815233/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
