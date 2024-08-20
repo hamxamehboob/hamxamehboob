@@ -17,6 +17,9 @@
  <a href="http://www.youtube.com/@hamza_mehboob">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+ <a href="https://wa.me/message/B3WH27ILRRDDG1">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
 </div>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=hamxamehboob&style=flat-square&color=blue" alt=""/>
