@@ -14,6 +14,9 @@
   <a href="https://web.facebook.com/hamxa2003/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
+ <a href="http://www.youtube.com/@hamza_mehboob">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </div>
 <div align = "center">
   <img src="https://komarev.com/ghpvc/?username=hamxamehboob&style=flat-square&color=blue" alt=""/>
