@@ -25,7 +25,7 @@
   <a href="https://wa.me/message/B3WH27ILRRDDG1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="mailto:lypelive.app@gmail.com">
+  <a href="mailto:hmtechnologies.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
@@ -121,18 +121,6 @@
 <div align="center">
   <img src="http://76.13.208.76:8082?user=hamxamehboob&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="http://76.13.208.76:8083?username=hamxamehboob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamxamehboob&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 Watch My Contributions Grow
 
 <div align="center">
   <img src="http://76.13.208.76:8083?username=hamxamehboob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
