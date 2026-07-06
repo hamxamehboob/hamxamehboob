@@ -1,6 +1,3 @@
-<details>
-<summary><b>📋 Click to expand the full README markdown (copy all of it)</b></summary>
-
 <h1 align="center">Hi 👋, I'm Hamza Mehboob</h1>
 <h3 align="center">A Computer Scientist & Mobile App Developer from Pakistan 🇵🇰</h3>
 
@@ -138,6 +135,18 @@
 ### 🐍 Watch My Contributions Grow
 
 <div align="center">
+  <img src="http://76.13.208.76:8083?username=hamxamehboob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamxamehboob&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 Watch My Contributions Grow
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamxamehboob/hamxamehboob/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamxamehboob/hamxamehboob/output/github-snake.svg">
@@ -150,4 +159,3 @@
 <div align="center">
   <i>⚡ Thanks for visiting my profile! Feel free to connect. ⚡</i>
 </div>
-</details>
