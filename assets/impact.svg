@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="30+ projects shipped, 12 App Store and Google Play releases, clients in 9 countries, replies within 24 hours">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060912"/>
+      <stop offset="1" stop-color="#0B1222"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.55" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="1200" height="150" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <rect x="0.5" y="0.5" width="1199" height="149" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.08">
+      <line x1="300" y1="32" x2="300" y2="118"/>
+      <line x1="600" y1="32" x2="600" y2="118"/>
+      <line x1="900" y1="32" x2="900" y2="118"/>
+    </g>
+
+    <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+      <g>
+        <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze"/>
+        <text x="150" y="80" font-size="48" font-weight="800" fill="url(#num)">30+</text>
+        <text x="150" y="112" font-size="15" font-weight="600" fill="#94A3B8">projects shipped</text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.2;1" dur="1s" begin="0s" fill="freeze"/>
+        <text x="450" y="80" font-size="48" font-weight="800" fill="url(#num)">12</text>
+        <text x="450" y="112" font-size="15" font-weight="600" fill="#94A3B8">App Store &amp; Google Play releases</text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.33;1" dur="1.2s" begin="0s" fill="freeze"/>
+        <text x="750" y="80" font-size="48" font-weight="800" fill="url(#num)">9</text>
+        <text x="750" y="112" font-size="15" font-weight="600" fill="#94A3B8">countries, clients worldwide</text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.43;1" dur="1.4s" begin="0s" fill="freeze"/>
+        <text x="1050" y="80" font-size="48" font-weight="800" fill="url(#num)">&lt;24h</text>
+        <text x="1050" y="112" font-size="15" font-weight="600" fill="#94A3B8">reply with a plan &amp; estimate</text>
+      </g>
+    </g>
+  </g>
+</svg>
